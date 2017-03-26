@@ -1,0 +1,19 @@
+{
+  "name": "kikayon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anannerup/kikayon.git"
+  },
+  "author": "Anders Nannerup",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anannerup/kikayon/issues"
+  },
+  "homepage": "https://github.com/anannerup/kikayon#readme"
+}
